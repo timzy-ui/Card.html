@@ -1,0 +1,22 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleDocumenttitle
+    link href=httpscdn.jsdelivr.netnpmbootstrap@5.3.3distcssbootstrap.min.css rel=stylesheet integrity=sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH crossorigin=anonymous
+head
+body
+    div class=container mt-5
+        div class=card style=width 18rem;
+            img src=httpswww.optimalvirtualemployee.comwp-contentuploads202212Web-Developer-skill-1200x682.jpg class=card-img-top alt=card image
+            div class=card-body
+                h5 class=card-titleCard Titleh5
+                p class=card-textThis is a simple example of a bootstrap card. You can add text, image, and more!p
+                a href=# class=btn btn-primaryGo somewherea
+            div
+        div
+    div
+    script src=httpscdn.jsdelivr.netnpmbootstrap@5.3.3distjsbootstrap.bundle.min.js integrity=sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz crossorigin=anonymousscript
+body
+html 
